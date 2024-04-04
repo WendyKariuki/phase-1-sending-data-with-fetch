@@ -1,30 +1,439 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "4f2c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b011",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b616",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "a718",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3278",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e36b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8385",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e91f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "bc46",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "dc5a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "a439",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "16b4",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d657",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2020",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b8bd",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "a244",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d0c7",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e245",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "c40a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3c9a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2b3f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3b55",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d1b0",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "028c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "33a9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "c8b6",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6248",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9e1c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5caf",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3c91",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5726",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6b26",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1485",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "c04b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "f98f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9467",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5c68",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7329",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b7fd",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6995",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "140a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "ac43",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8e3d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e76e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "f675",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5677",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "137f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "a402",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6648",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0a62",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e800",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6c43",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "321f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "211d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8092",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5bf8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2ffa",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "ca60",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "644c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6743",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1aa5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b493",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9ceb",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "19d8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "47cc",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b89f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "bc37",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "13a0",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "fd07",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "30a9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d13d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "561f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6e9b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b7cb",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e2cf",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "c61a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3f50",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "df23",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "08aa",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0fe8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "576c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
   "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
